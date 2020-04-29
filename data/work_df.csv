@@ -1,0 +1,625 @@
+country,year,work_hours
+Korea,2000,2512
+Korea,2001,2499
+Korea,2002,2464
+Korea,2003,2424
+Korea,2004,2392
+Korea,2005,2351
+Korea,2006,2346
+Korea,2007,2306
+Korea,2008,2219
+Korea,2009,2174
+Korea,2010,2163
+Korea,2011,2133
+Korea,2012,2109
+Korea,2013,2100
+Korea,2014,2075
+Korea,2015,2082
+Costa Rica,2000,2368
+Costa Rica,2001,2335
+Costa Rica,2002,2363
+Costa Rica,2003,2356
+Costa Rica,2004,2375
+Costa Rica,2005,2358
+Costa Rica,2006,2366
+Costa Rica,2007,2393
+Costa Rica,2008,2398
+Costa Rica,2009,2354
+Costa Rica,2010,2249
+Costa Rica,2011,2290
+Costa Rica,2012,2243
+Costa Rica,2013,2157
+Costa Rica,2014,2136
+Costa Rica,2015,2157
+Mexico,2000,2311
+Mexico,2001,2285
+Mexico,2002,2271
+Mexico,2003,2277
+Mexico,2004,2271
+Mexico,2005,2290
+Mexico,2006,2278
+Mexico,2007,2260
+Mexico,2008,2264
+Mexico,2009,2255
+Mexico,2010,2254
+Mexico,2011,2248
+Mexico,2012,2239
+Mexico,2013,2244
+Mexico,2014,2242
+Mexico,2015,2248
+Chile,2000,2263
+Chile,2001,2242
+Chile,2002,2250
+Chile,2003,2235
+Chile,2004,2232
+Chile,2005,2157
+Chile,2006,2165
+Chile,2007,2128
+Chile,2008,2095
+Chile,2009,2074
+Chile,2010,2070
+Chile,2011,2047
+Chile,2012,2024
+Chile,2013,2015
+Chile,2014,1990
+Chile,2015,1988
+Greece,2000,2108
+Greece,2001,2101
+Greece,2002,2093
+Greece,2003,2091
+Greece,2004,2083
+Greece,2005,2136
+Greece,2006,2125
+Greece,2007,2111
+Greece,2008,2106
+Greece,2009,2081
+Greece,2010,2020
+Greece,2011,2038
+Greece,2012,2055
+Greece,2013,2059
+Greece,2014,2022
+Greece,2015,2033
+Iceland,2000,2040
+Iceland,2001,2053
+Iceland,2002,2012
+Iceland,2003,1972
+Iceland,2004,1980
+Iceland,2005,1970
+Iceland,2006,1958
+Iceland,2007,1932
+Iceland,2008,1934
+Iceland,2009,1849
+Iceland,2010,1834
+Iceland,2011,1878
+Iceland,2012,1853
+Iceland,2013,1846
+Iceland,2014,1864
+Iceland,2015,1880
+Israel,2000,1998
+Israel,2001,1979
+Israel,2002,1993
+Israel,2003,1974
+Israel,2004,1942
+Israel,2005,1931
+Israel,2006,1919
+Israel,2007,1931
+Israel,2008,1929
+Israel,2009,1927
+Israel,2010,1918
+Israel,2011,1920
+Israel,2012,1910
+Israel,2013,1867
+Israel,2014,1853
+Israel,2015,1858
+Poland,2000,1988
+Poland,2001,1974
+Poland,2002,1979
+Poland,2003,1984
+Poland,2004,1983
+Poland,2005,1994
+Poland,2006,1985
+Poland,2007,1976
+Poland,2008,1969
+Poland,2009,1948
+Poland,2010,1940
+Poland,2011,1938
+Poland,2012,1929
+Poland,2013,1918
+Poland,2014,1923
+Poland,2015,1963
+Russian Federation,2000,1982
+Russian Federation,2001,1980
+Russian Federation,2002,1982
+Russian Federation,2003,1993
+Russian Federation,2004,1993
+Russian Federation,2005,1989
+Russian Federation,2006,1998
+Russian Federation,2007,1999
+Russian Federation,2008,1997
+Russian Federation,2009,1974
+Russian Federation,2010,1976
+Russian Federation,2011,1979
+Russian Federation,2012,1982
+Russian Federation,2013,1980
+Russian Federation,2014,1985
+Russian Federation,2015,1978
+Estonia,2000,1978
+Estonia,2001,1970
+Estonia,2002,1973
+Estonia,2003,1978
+Estonia,2004,1986
+Estonia,2005,2008
+Estonia,2006,2001
+Estonia,2007,1998
+Estonia,2008,1968
+Estonia,2009,1831
+Estonia,2010,1875
+Estonia,2011,1919
+Estonia,2012,1886
+Estonia,2013,1866
+Estonia,2014,1859
+Estonia,2015,1852
+Latvia,2000,1976
+Latvia,2001,1987
+Latvia,2002,1938
+Latvia,2003,1928
+Latvia,2004,1878
+Latvia,2005,1906
+Latvia,2006,1907
+Latvia,2007,1878
+Latvia,2008,2002
+Latvia,2009,1952
+Latvia,2010,1935
+Latvia,2011,1952
+Latvia,2012,1934
+Latvia,2013,1928
+Latvia,2014,1938
+Latvia,2015,1909
+Turkey,2000,1937
+Turkey,2001,1942
+Turkey,2002,1943
+Turkey,2003,1943
+Turkey,2004,1918
+Turkey,2005,1936
+Turkey,2006,1944
+Turkey,2007,1911
+Turkey,2008,1900
+Turkey,2009,1881
+Turkey,2010,1877
+Turkey,2011,1864
+Turkey,2012,1855
+Turkey,2013,1832
+Turkey,2014,0
+Turkey,2015,0
+Ireland,2000,1933
+Ireland,2001,1924
+Ireland,2002,1904
+Ireland,2003,1887
+Ireland,2004,1875
+Ireland,2005,1883
+Ireland,2006,1879
+Ireland,2007,1865
+Ireland,2008,1844
+Ireland,2009,1812
+Ireland,2010,1801
+Ireland,2011,1801
+Ireland,2012,1806
+Ireland,2013,1815
+Ireland,2014,1821
+Ireland,2015,1820
+Portugal,2000,1917
+Portugal,2001,1900
+Portugal,2002,1894
+Portugal,2003,1887
+Portugal,2004,1893
+Portugal,2005,1895
+Portugal,2006,1883
+Portugal,2007,1900
+Portugal,2008,1887
+Portugal,2009,1887
+Portugal,2010,1890
+Portugal,2011,1867
+Portugal,2012,1849
+Portugal,2013,1859
+Portugal,2014,1867
+Portugal,2015,1869
+Czech Republic,2000,1896
+Czech Republic,2001,1818
+Czech Republic,2002,1816
+Czech Republic,2003,1806
+Czech Republic,2004,1817
+Czech Republic,2005,1817
+Czech Republic,2006,1799
+Czech Republic,2007,1784
+Czech Republic,2008,1790
+Czech Republic,2009,1779
+Czech Republic,2010,1800
+Czech Republic,2011,1806
+Czech Republic,2012,1776
+Czech Republic,2013,1763
+Czech Republic,2014,1777
+Czech Republic,2015,1756
+Italy,2000,1851
+Italy,2001,1838
+Italy,2002,1827
+Italy,2003,1816
+Italy,2004,1815
+Italy,2005,1812
+Italy,2006,1813
+Italy,2007,1818
+Italy,2008,1807
+Italy,2009,1776
+Italy,2010,1777
+Italy,2011,1773
+Italy,2012,1734
+Italy,2013,1720
+Italy,2014,1717
+Italy,2015,1723
+Lithuania,2000,1846
+Lithuania,2001,1831
+Lithuania,2002,1802
+Lithuania,2003,1786
+Lithuania,2004,1879
+Lithuania,2005,1879
+Lithuania,2006,1874
+Lithuania,2007,1904
+Lithuania,2008,1934
+Lithuania,2009,1863
+Lithuania,2010,1884
+Lithuania,2011,1859
+Lithuania,2012,1857
+Lithuania,2013,1841
+Lithuania,2014,1834
+Lithuania,2015,1860
+Hungary,2000,1845
+Hungary,2001,1809
+Hungary,2002,1820
+Hungary,2003,1795
+Hungary,2004,1802
+Hungary,2005,1803
+Hungary,2006,1800
+Hungary,2007,1795
+Hungary,2008,1798
+Hungary,2009,1781
+Hungary,2010,1777
+Hungary,2011,1770
+Hungary,2012,1750
+Hungary,2013,1745
+Hungary,2014,1752
+Hungary,2015,1746
+New Zealand,2000,1836
+New Zealand,2001,1825
+New Zealand,2002,1826
+New Zealand,2003,1823
+New Zealand,2004,1830
+New Zealand,2005,1815
+New Zealand,2006,1795
+New Zealand,2007,1774
+New Zealand,2008,1761
+New Zealand,2009,1740
+New Zealand,2010,1755
+New Zealand,2011,1746
+New Zealand,2012,1734
+New Zealand,2013,1752
+New Zealand,2014,1762
+New Zealand,2015,1757
+United States,2000,1834
+United States,2001,1812
+United States,2002,1807
+United States,2003,1797
+United States,2004,1799
+United States,2005,1795
+United States,2006,1798
+United States,2007,1796
+United States,2008,1789
+United States,2009,1763
+United States,2010,1774
+United States,2011,1782
+United States,2012,1785
+United States,2013,1783
+United States,2014,1786
+United States,2015,1786
+OECD countries,2000,1829
+OECD countries,2001,1815
+OECD countries,2002,1807
+OECD countries,2003,1802
+OECD countries,2004,1803
+OECD countries,2005,1800
+OECD countries,2006,1800
+OECD countries,2007,1797
+OECD countries,2008,1792
+OECD countries,2009,1765
+OECD countries,2010,1774
+OECD countries,2011,1772
+OECD countries,2012,1770
+OECD countries,2013,1765
+OECD countries,2014,1764
+OECD countries,2015,1766
+Japan,2000,1821
+Japan,2001,1809
+Japan,2002,1798
+Japan,2003,1799
+Japan,2004,1787
+Japan,2005,1775
+Japan,2006,1784
+Japan,2007,1785
+Japan,2008,1771
+Japan,2009,1714
+Japan,2010,1733
+Japan,2011,1728
+Japan,2012,1745
+Japan,2013,1734
+Japan,2014,1729
+Japan,2015,1719
+Slovak Republic,2000,1816
+Slovak Republic,2001,1801
+Slovak Republic,2002,1754
+Slovak Republic,2003,1698
+Slovak Republic,2004,1742
+Slovak Republic,2005,1769
+Slovak Republic,2006,1774
+Slovak Republic,2007,1791
+Slovak Republic,2008,1793
+Slovak Republic,2009,1780
+Slovak Republic,2010,1805
+Slovak Republic,2011,1793
+Slovak Republic,2012,1789
+Slovak Republic,2013,1772
+Slovak Republic,2014,1760
+Slovak Republic,2015,1754
+Austria,2000,1807
+Austria,2001,1795
+Austria,2002,1792
+Austria,2003,1784
+Austria,2004,1787
+Austria,2005,1764
+Austria,2006,1746
+Austria,2007,1736
+Austria,2008,1729
+Austria,2009,1673
+Austria,2010,1669
+Austria,2011,1676
+Austria,2012,1653
+Austria,2013,1638
+Austria,2014,1628
+Austria,2015,1608
+Australia,2000,1779
+Australia,2001,1737
+Australia,2002,1732
+Australia,2003,1736
+Australia,2004,1734
+Australia,2005,1729
+Australia,2006,1721
+Australia,2007,1712
+Australia,2008,1717
+Australia,2009,1690
+Australia,2010,1692
+Australia,2011,1698
+Australia,2012,1689
+Australia,2013,1685
+Australia,2014,1681
+Australia,2015,1682
+Canada,2000,1779
+Canada,2001,1771
+Canada,2002,1754
+Canada,2003,1746
+Canada,2004,1759
+Canada,2005,1747
+Canada,2006,1745
+Canada,2007,1741
+Canada,2008,1735
+Canada,2009,1701
+Canada,2010,1703
+Canada,2011,1700
+Canada,2012,1713
+Canada,2013,1707
+Canada,2014,1704
+Canada,2015,1707
+Spain,2000,1753
+Spain,2001,1763
+Spain,2002,1765
+Spain,2003,1756
+Spain,2004,1742
+Spain,2005,1726
+Spain,2006,1716
+Spain,2007,1704
+Spain,2008,1713
+Spain,2009,1720
+Spain,2010,1710
+Spain,2011,1716
+Spain,2012,1701
+Spain,2013,1694
+Spain,2014,1697
+Spain,2015,1701
+Finland,2000,1742
+Finland,2001,1723
+Finland,2002,1714
+Finland,2003,1705
+Finland,2004,1707
+Finland,2005,1697
+Finland,2006,1693
+Finland,2007,1691
+Finland,2008,1685
+Finland,2009,1661
+Finland,2010,1668
+Finland,2011,1662
+Finland,2012,1650
+Finland,2013,1640
+Finland,2014,1636
+Finland,2015,1641
+Slovenia,2000,1710
+Slovenia,2001,1696
+Slovenia,2002,1721
+Slovenia,2003,1724
+Slovenia,2004,1737
+Slovenia,2005,1697
+Slovenia,2006,1667
+Slovenia,2007,1655
+Slovenia,2008,1674
+Slovenia,2009,1679
+Slovenia,2010,1680
+Slovenia,2011,1663
+Slovenia,2012,1644
+Slovenia,2013,1662
+Slovenia,2014,1682
+Slovenia,2015,1688
+United Kingdom,2000,1700
+United Kingdom,2001,1705
+United Kingdom,2002,1684
+United Kingdom,2003,1674
+United Kingdom,2004,1674
+United Kingdom,2005,1673
+United Kingdom,2006,1669
+United Kingdom,2007,1677
+United Kingdom,2008,1659
+United Kingdom,2009,1651
+United Kingdom,2010,1650
+United Kingdom,2011,1634
+United Kingdom,2012,1654
+United Kingdom,2013,1666
+United Kingdom,2014,1677
+United Kingdom,2015,1674
+Switzerland,2000,1674
+Switzerland,2001,1635
+Switzerland,2002,1614
+Switzerland,2003,1627
+Switzerland,2004,1657
+Switzerland,2005,1652
+Switzerland,2006,1643
+Switzerland,2007,1633
+Switzerland,2008,1623
+Switzerland,2009,1615
+Switzerland,2010,1612
+Switzerland,2011,1605
+Switzerland,2012,1591
+Switzerland,2013,1573
+Switzerland,2014,1568
+Switzerland,2015,1590
+Sweden,2000,1642
+Sweden,2001,1618
+Sweden,2002,1595
+Sweden,2003,1582
+Sweden,2004,1605
+Sweden,2005,1605
+Sweden,2006,1599
+Sweden,2007,1612
+Sweden,2008,1617
+Sweden,2009,1609
+Sweden,2010,1635
+Sweden,2011,1632
+Sweden,2012,1618
+Sweden,2013,1609
+Sweden,2014,1609
+Sweden,2015,1611
+Luxembourg,2000,1602
+Luxembourg,2001,1586
+Luxembourg,2002,1581
+Luxembourg,2003,1579
+Luxembourg,2004,1578
+Luxembourg,2005,1550
+Luxembourg,2006,1552
+Luxembourg,2007,1566
+Luxembourg,2008,1567
+Luxembourg,2009,1516
+Luxembourg,2010,1517
+Luxembourg,2011,1515
+Luxembourg,2012,1508
+Luxembourg,2013,1501
+Luxembourg,2014,1508
+Luxembourg,2015,1515
+Belgium,2000,1595
+Belgium,2001,1588
+Belgium,2002,1583
+Belgium,2003,1578
+Belgium,2004,1573
+Belgium,2005,1565
+Belgium,2006,1572
+Belgium,2007,1577
+Belgium,2008,1570
+Belgium,2009,1548
+Belgium,2010,1546
+Belgium,2011,1560
+Belgium,2012,1560
+Belgium,2013,1558
+Belgium,2014,1556
+Belgium,2015,1551
+France,2000,1535
+France,2001,1526
+France,2002,1487
+France,2003,1484
+France,2004,1513
+France,2005,1507
+France,2006,1484
+France,2007,1500
+France,2008,1507
+France,2009,1489
+France,2010,1494
+France,2011,1496
+France,2012,1490
+France,2013,1474
+France,2014,1473
+France,2015,1482
+Denmark,2000,1466
+Denmark,2001,1469
+Denmark,2002,1463
+Denmark,2003,1458
+Denmark,2004,1458
+Denmark,2005,1451
+Denmark,2006,1456
+Denmark,2007,1433
+Denmark,2008,1430
+Denmark,2009,1417
+Denmark,2010,1422
+Denmark,2011,1437
+Denmark,2012,1423
+Denmark,2013,1426
+Denmark,2014,1414
+Denmark,2015,1412
+Netherlands,2000,1462
+Netherlands,2001,1452
+Netherlands,2002,1435
+Netherlands,2003,1427
+Netherlands,2004,1448
+Netherlands,2005,1434
+Netherlands,2006,1430
+Netherlands,2007,1430
+Netherlands,2008,1430
+Netherlands,2009,1422
+Netherlands,2010,1421
+Netherlands,2011,1422
+Netherlands,2012,1413
+Netherlands,2013,1418
+Netherlands,2014,1429
+Netherlands,2015,1422
+Norway,2000,1455
+Norway,2001,1429
+Norway,2002,1414
+Norway,2003,1401
+Norway,2004,1421
+Norway,2005,1423
+Norway,2006,1420
+Norway,2007,1426
+Norway,2008,1430
+Norway,2009,1407
+Norway,2010,1415
+Norway,2011,1421
+Norway,2012,1420
+Norway,2013,1408
+Norway,2014,1427
+Norway,2015,1424
+Germany,2000,1452
+Germany,2001,1442
+Germany,2002,1431
+Germany,2003,1425
+Germany,2004,1422
+Germany,2005,1411
+Germany,2006,1425
+Germany,2007,1424
+Germany,2008,1418
+Germany,2009,1373
+Germany,2010,1390
+Germany,2011,1393
+Germany,2012,1375
+Germany,2013,1362
+Germany,2014,1368
+Germany,2015,1368
