@@ -1,8 +1,28 @@
 # Suicides_1985-2016
 
-Trello organizer:
-https://trello.com/b/KZf2rOhN/red-squirrels
-
-Datasets:
+The dataset which was used at the entry point into our investigations:
 
 https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016
+
+Other sources of information:
+https://www.kaggle.com/marcospessotto/happiness-and-alcohol-consumption
+https://www.ncbi.nlm.nih.gov/books/NBK223752/
+https://www.teoalida.com/world/southkorea/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4691784/
+https://bpr.berkeley.edu/2017/10/31/the-scourge-of-south-korea-stress-and-suicide-in-korean-society/
+https://en.wikipedia.org/wiki/Poverty_in_South_Korea
+https://en.wikipedia.org/wiki/List_of_average_annual_labor_hours_in_OECD_countries
+https://data.oecd.org/socialexp/pension-spending.htm
+https://data.oecd.org/inequality/income-inequality.htm
+
+# Covering the thought process:
+
+What is influces on people committing suicide? What is the correlation of suicides of different age groups and the
+
+        - economy?
+        - alcohol/drug consumption
+        - poverty rates (distribution of wealth) 
+
+# Covering the notebooks
+
+1. Read in the nessessary information from the suicide rates.
