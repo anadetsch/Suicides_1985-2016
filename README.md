@@ -25,4 +25,22 @@ What is influces on people committing suicide? What is the correlation of suicid
 
 # Covering the notebooks
 
-1. Read in the nessessary information from the suicide rates.
+1. Read in the nessessary information from the suicide rates and adding continent information to get a closer look at the statistics.
+
+2. Since most other information was contained with the 3-letter country-codes, a dictionary was added to put the codes into country names in order to be able to merge further information into our main dataframe.
+
+3. Adding relevant economic information for different countries.
+
+4. Looking into alcohol consumption for different countries.
+
+5.-7. Getting a closer look at the suicide rates in perspective to alcohol cunsumption, GDP and health expenditure as well as gros poverty of the countries. Since a lot of information was not accurate/available, we turned to a subset of countries: OECD
+
+8. Subsetting OECD countries and obtaining more information on those on the OECD website such as:
+        - poverty rates
+        - poverty gap
+        - pension inequality
+        
+9. For Korea taking a deeper look into poverty by age groups and the working hours of different OECD countries (to figure out, if maybe stress might be another measurable factor)
+
+10. All this information was put into one dataframe to visualize the obtained information using Tableau.
+-->  https://public.tableau.com/profile/ana.paula.detsch#!/vizhome/SuicidesinKorea/Story1
